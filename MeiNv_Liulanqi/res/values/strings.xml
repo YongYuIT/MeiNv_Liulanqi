@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_view_pager">ViewPager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_view_switcher">ViewSwitcher</string>
+    <string name="title_activity_view_pager_huadong">ViewPagerHuadongActivity</string>
+    <string name="title_activity_view_switcher_huadong">ViewSwitcherHuadongActivity</string>
+
+</resources>
